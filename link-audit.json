@@ -1,0 +1,59 @@
+{
+  "checkedAt": "2026-10-22",
+  "results": [
+    {
+      "url": "https://www.yonex.com/athletes/details/?athlete_id=107",
+      "status": 200,
+      "finalUrl": "https://www.yonex.com/athletes/details/?athlete_id=107",
+      "title": "An Se Young"
+    },
+    {
+      "url": "https://chzzk.naver.com/video/15397925",
+      "status": 200,
+      "finalUrl": "https://chzzk.naver.com/video/15397925",
+      "title": "치지직 CHZZK"
+    },
+    {
+      "url": "https://www.aichi-nagoya2026.org/sport/badminton/",
+      "status": 200,
+      "finalUrl": "https://www.aichi-nagoya2026.org/sport/badminton/",
+      "title": "Badminton &#8211; Asian Games 2026"
+    },
+    {
+      "url": "https://www.badmintonbc.com/page/2888/The-Laws-of-Badminton",
+      "status": 200,
+      "finalUrl": "https://www.badmintonbc.com/page/2888/The-Laws-of-Badminton",
+      "title": "The Laws of Badminton - Badminton BC"
+    },
+    {
+      "url": "https://www.korea.net/NewsFocus/Sports/view?articleId=301229",
+      "status": 200,
+      "finalUrl": "https://www.korea.net/NewsFocus/Sports/view?articleId=301229",
+      "title": "Near perfecti-An: badminton star posts season's 9th win in Denmark : Korea.net : The official website of the Republic of Korea"
+    },
+    {
+      "url": "https://chzzk.naver.com/video/15430303",
+      "status": 200,
+      "finalUrl": "https://chzzk.naver.com/video/15430303",
+      "title": "치지직 CHZZK"
+    },
+    {
+      "url": "https://world.kbs.co.kr/service/news_view.htm?Seq_Code=203773&lang=e",
+      "status": 200,
+      "finalUrl": "https://world.kbs.co.kr/service/news_view.htm?Seq_Code=203773&lang=e",
+      "title": "Badminton Star An Se-young Claims Second World Championships Title in New Dehli l KBS WORLD"
+    }
+  ],
+  "browserChecks": [
+    {
+      "url": "https://chzzk.naver.com/video/15397925",
+      "verified": "SBS verified channel; womens singles quarterfinal; An Se Young vs Ratchanok Intanon; title and player UI observed"
+    },
+    {
+      "url": "https://chzzk.naver.com/video/15430303",
+      "verified": "SBS verified channel; womens singles final; An Se Young vs Akane Yamaguchi; title and player UI observed"
+    }
+  ],
+  "internalLinks": "All fragment targets exist, no duplicates, no empty links",
+  "layout": "Desktop player section visually verified; photo beside player name, aspect ratio preserved"
+}
