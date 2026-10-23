@@ -27,7 +27,6 @@ node serve.mjs
 - `serve.mjs`: 로컬 정적 파일 서버
 - `BLOG-RESEARCH.md`: 키워드 선정과 글 구성·출처 조사 기록
 - `audit-links.mjs`, `link-audit.json`: 외부 링크 점검 스크립트와 이전 점검 기록
-- `.openai/hosting.json`: 기존 Sites 배포 설정
 
 ## 이미지와 출처
 
