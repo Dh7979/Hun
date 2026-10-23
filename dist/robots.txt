@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rally-again-womens-singles.team-4d-1408.chatgpt.site/sitemap.xml
